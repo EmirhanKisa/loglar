@@ -1,0 +1,1 @@
+Random komutu ile hangi takımın kazandığını belirledik.
