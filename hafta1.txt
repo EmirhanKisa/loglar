@@ -1,1 +1,1 @@
-
+Git indirerek text oluşturduk ve içeriği silip değiştirdik. Sonra gitten githaba içeriği yükledik.
