@@ -1,0 +1,1 @@
+Class yapısı ile örnekler oluşturuldu.
