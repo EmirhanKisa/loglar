@@ -1,0 +1,1 @@
+Beşer beşer azalan kendine dönen bir fonksiyon oluşturuldu. (While gibi)
